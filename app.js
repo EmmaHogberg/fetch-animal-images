@@ -13,6 +13,7 @@ showAnimalButton.addEventListener("click", getAnimalType);
 // Get user input on choice of animal type and fetch image
 function getAnimalType(element) {
   element = animalType.value;
+  currentImage.src = "spinner.gif";
 
   switch (element) {
     case "dog":
