@@ -16,3 +16,11 @@ Lägg upp koden på github.
 Lägg till två länkar här när du är klar. Länka till:
 - Din Github Pages sida
 - Din kod på Github
+
+
+# Sample images of the finished page
+
+![Ex1](https://user-images.githubusercontent.com/70634183/132074819-e888942a-8d24-48cd-b203-b285a6894b17.jpg)
+![Ex2](https://user-images.githubusercontent.com/70634183/132074821-6b8987ad-86ba-46ab-8595-d26d21f76e15.jpg)
+![Ex3](https://user-images.githubusercontent.com/70634183/132074822-2a756532-e672-4982-b6d8-2d7cde286f40.jpg)
+
